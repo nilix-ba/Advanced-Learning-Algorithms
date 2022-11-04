@@ -1,0 +1,1 @@
+ In this exercise, you will extend last weeks assigment to recognize digits 0-9. You will explore the popular ReLu activation as well as the use of the Softmax activation in multiclass classification.  You will then build a neural network capable of multiclass classification using the ReLu and Softmax in Tensorflow. 
